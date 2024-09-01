@@ -44,10 +44,14 @@ import React from "react";
 //     </div>
 //   );
 // }
-<div className="main-page">
-  <iframe
-    style="border: none"
-    src="https://gukolomna.ru/studentu/schedule/"
-    sandbox="allow-scripts allow-same-origin"
-  ></iframe>
-</div>;
+export function Info() {
+  return (
+    <div className="main-page">
+      <iframe
+        style="border: none"
+        src="https://gukolomna.ru/studentu/schedule/"
+        sandbox="allow-scripts allow-same-origin"
+      ></iframe>
+    </div>
+  );
+}
