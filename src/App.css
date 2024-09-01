@@ -25,8 +25,8 @@
   color: #fff;
 }
 
-.sub-header h1 {
-  font-size: 30px;
+.sub-header span {
+  font-size: 25px;
   text-transform: uppercase;
 }
 
