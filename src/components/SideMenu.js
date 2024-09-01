@@ -10,13 +10,13 @@ function SideMenu() {
         <NavLink to="/">Главная</NavLink>
         {/* <NavLink to="info">Расписание</NavLink> */}
         <NavLink to="structur">Расписание</NavLink>
-        <NavLink to="stubpage">Учебный процесс</NavLink>
-        <NavLink to="stubpage">Документы</NavLink>
+        <NavLink to="eduprocess">Учебный процесс</NavLink>
+        <NavLink to="docs">Документы</NavLink>
         {/* <NavLink to="abitur">Абитуриенту</NavLink> */}
-        <NavLink to="stubpage">Проекты</NavLink>
-        <NavLink to="stubpage">Технологии</NavLink>
-        <NavLink to="stubpage">Трудоустройство</NavLink>
-        <NavLink to="stubpage">Контакты</NavLink>
+        <NavLink to="projects">Проекты</NavLink>
+        <NavLink to="tech">Технологии</NavLink>
+        <NavLink to="educuality">Трудоустройство</NavLink>
+        <NavLink to="contact">Контакты</NavLink>
       </div>
       <div className="socials-container">
         {/* <div className='socials-item'>
