@@ -19,12 +19,6 @@ const images = [info1, info2, info3];
 export function Info() {
   return (
     <div className="main-page">
-      <iframe
-        style="border: none"
-        src="https://gukolomna.ru/studentu/schedule/"
-        sandbox="allow-scripts allow-same-origin"
-      ></iframe>
-
       <Swiper
         // install Swiper modules
         modules={[Navigation, Pagination, Autoplay, A11y]}
