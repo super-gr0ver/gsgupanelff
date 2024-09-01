@@ -12,9 +12,9 @@ function Header() {
 
       <h1>
         Филологический факультет
-        <span class="sub-header">
+        <div class="sub-header">
           Государственный социально-гуманитарный университет
-        </span>
+        </div>
       </h1>
     </header>
   );
