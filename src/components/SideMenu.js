@@ -8,11 +8,11 @@ function SideMenu() {
     <div className="main-sidemenu">
       <div className="main-nav">
         <NavLink to="/">Главная</NavLink>
+        <NavLink to="abitur">О факультете</NavLink>
         {/* <NavLink to="info">Расписание</NavLink> */}
         <NavLink to="structur">Расписание</NavLink>
         <NavLink to="eduprocess">Учебный процесс</NavLink>
         <NavLink to="docs">Документы</NavLink>
-        {/* <NavLink to="abitur">Абитуриенту</NavLink> */}
         <NavLink to="projects">Проекты</NavLink>
         <NavLink to="tech">Технологии</NavLink>
         <NavLink to="educuality">Трудоустройство</NavLink>
