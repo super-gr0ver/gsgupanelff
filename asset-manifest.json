@@ -1,36 +1,24 @@
 {
   "files": {
     "main.css": "/gsgupanelff/static/css/main.49539a97.css",
-    "main.js": "/gsgupanelff/static/js/main.521e6511.js",
+    "main.js": "/gsgupanelff/static/js/main.809ad553.js",
     "static/media/3.jpg": "/gsgupanelff/static/media/3.d4e5e90ff4b17f798a18.jpg",
-    "static/media/2.jpg": "/gsgupanelff/static/media/2.475308b76c38703db537.jpg",
-    "static/media/6.jpg": "/gsgupanelff/static/media/6.f50a9741929e725e6efa.jpg",
+    "static/media/2.jpg": "/gsgupanelff/static/media/2.17d0de7b5ee5bd4634c0.jpg",
+    "static/media/6.jpg": "/gsgupanelff/static/media/6.71588c9307fbe58f7725.jpg",
     "static/media/5.jpg": "/gsgupanelff/static/media/5.7f6133ba99d525a00fc7.jpg",
-    "static/media/1.jpg": "/gsgupanelff/static/media/1.7737c79068211197355e.jpg",
+    "static/media/1.jpg": "/gsgupanelff/static/media/1.57730bc67299d6188320.jpg",
     "static/media/4.jpg": "/gsgupanelff/static/media/4.a54e2d0c9628b48c6666.jpg",
-    "static/media/8.jpg": "/gsgupanelff/static/media/8.5da11745174429a2fbcf.jpg",
+    "static/media/8.jpg": "/gsgupanelff/static/media/8.98e462db30c479024677.jpg",
     "static/media/7.jpg": "/gsgupanelff/static/media/7.685cc77cf3076f319ffc.jpg",
-    "static/media/15.jpg": "/gsgupanelff/static/media/15.8d7adf28bdf8fd52ddb3.jpg",
-    "static/media/9.jpg": "/gsgupanelff/static/media/9.d56b4eaf9fc12be8cab6.jpg",
-    "static/media/10.jpg": "/gsgupanelff/static/media/10.4f18a3a298e5c0341112.jpg",
-    "static/media/18.jpg": "/gsgupanelff/static/media/18.eafa5f595b773d871fc4.jpg",
-    "static/media/14.jpg": "/gsgupanelff/static/media/14.688e3adf09ff3ae924d5.jpg",
-    "static/media/16.jpg": "/gsgupanelff/static/media/16.97aed6ab7a03d494d4ee.jpg",
-    "static/media/17.jpg": "/gsgupanelff/static/media/17.07003a010987806049aa.jpg",
-    "static/media/13.jpg": "/gsgupanelff/static/media/13.5717635f9701480bd7b9.jpg",
-    "static/media/11.jpg": "/gsgupanelff/static/media/11.a84802a82b9e54cdb1cd.jpg",
-    "static/media/12.jpg": "/gsgupanelff/static/media/12.bef5729c182e5d46ffa4.jpg",
-    "static/media/ab2.jpg": "/gsgupanelff/static/media/ab2.aa7d12bafcd3b60d88e0.jpg",
-    "static/media/ab1.jpg": "/gsgupanelff/static/media/ab1.d4a6759b6535ad5dcc88.jpg",
     "static/media/gsgu-logo.png": "/gsgupanelff/static/media/gsgu-logo.54593d298df39deb272c.png",
     "static/media/qr-vk.svg": "/gsgupanelff/static/media/qr-vk.28a9c8ca09fcfe9a3d6be96db418dc66.svg",
     "static/media/qr-tg.svg": "/gsgupanelff/static/media/qr-tg.de362359674d2d570f085de0d5d3086b.svg",
     "index.html": "/gsgupanelff/index.html",
     "main.49539a97.css.map": "/gsgupanelff/static/css/main.49539a97.css.map",
-    "main.521e6511.js.map": "/gsgupanelff/static/js/main.521e6511.js.map"
+    "main.809ad553.js.map": "/gsgupanelff/static/js/main.809ad553.js.map"
   },
   "entrypoints": [
     "static/css/main.49539a97.css",
-    "static/js/main.521e6511.js"
+    "static/js/main.809ad553.js"
   ]
 }
