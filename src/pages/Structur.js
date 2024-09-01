@@ -7,7 +7,9 @@ export function Structur() {
       <iframe
         style="border: none"
         src="https://gukolomna.ru/studentu/schedule/"
-        sandbox="allow-scripts allow-same-origin"
+        width="100%"
+        height="100%"
+        // sandbox="allow-scripts allow-same-origin"
       ></iframe>
     </div>
   );
