@@ -7,7 +7,7 @@ function SideMenu() {
   return (
     <div className="main-sidemenu">
       <div className="main-nav">
-        <NavLink to="/">Главная1</NavLink>
+        <NavLink to="/">Главная</NavLink>
         <NavLink to="info">Общая информация</NavLink>
         <NavLink to="structur">Структурные подразделения</NavLink>
         <NavLink to="eduprocess">Учебный процесс</NavLink>
