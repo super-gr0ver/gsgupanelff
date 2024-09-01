@@ -7,7 +7,7 @@ export function Structur() {
     //   <a href='https://gukolomna.ru/digitalfc/'>Цифровой портрет факультетов</a>
     //   <a href='https://gukolomna.ru/obrazovanie/kafedry/'>Кафедры</a>
     // </div>
-    <div className="main-page">
+    <div className="main-page main-container structur">
       <iframe
         style="border: none"
         src="https://gukolomna.ru/studentu/schedule/"
