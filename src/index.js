@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename='/gsgupanel'>
+    <BrowserRouter basename='/gsgupanelff'>
       <App />
     </BrowserRouter>
   </React.StrictMode>,
