@@ -13,14 +13,14 @@ import "swiper/css/pagination";
 // import ab1 from '../img/abitur/ab1.jpg';
 // import ab2 from '../img/abitur/ab2.jpg';
 
-import ffl1 from "../img/abitur/ffl/1.jpg";
-import ffl2 from "../img/abitur/ffl/2.jpg";
-import ffl3 from "../img/abitur/ffl/3.jpg";
-import ffl4 from "../img/abitur/ffl/4.jpg";
-import ffl5 from "../img/abitur/ffl/5.jpg";
-import ffl6 from "../img/abitur/ffl/6.jpg";
-import ffl7 from "../img/abitur/ffl/7.jpg";
-import ffl8 from "../img/abitur/ffl/8.jpg";
+// import ffl1 from "../img/abitur/ffl/1.jpg";
+// import ffl2 from "../img/abitur/ffl/2.jpg";
+// import ffl3 from "../img/abitur/ffl/3.jpg";
+// import ffl4 from "../img/abitur/ffl/4.jpg";
+// import ffl5 from "../img/abitur/ffl/5.jpg";
+// import ffl6 from "../img/abitur/ffl/6.jpg";
+// import ffl7 from "../img/abitur/ffl/7.jpg";
+// import ffl8 from "../img/abitur/ffl/8.jpg";
 
 // import fius1 from '../img/abitur/fius/1.jpg';
 // import fius2 from '../img/abitur/fius/2.jpg';
@@ -96,14 +96,14 @@ import ffl8 from "../img/abitur/ffl/8.jpg";
 // import ffkis6 from '../img/abitur/ffkis/6.jpg';
 // import ffkis7 from '../img/abitur/ffkis/7.jpg';
 
-// import ff1 from '../img/abitur/ff/1.jpg';
-// import ff2 from '../img/abitur/ff/2.jpg';
-// import ff3 from '../img/abitur/ff/3.jpg';
-// import ff4 from '../img/abitur/ff/4.jpg';
-// import ff5 from '../img/abitur/ff/5.jpg';
-// import ff6 from '../img/abitur/ff/6.jpg';
-// import ff7 from '../img/abitur/ff/7.jpg';
-// import ff8 from '../img/abitur/ff/8.jpg';
+import ff1 from "../img/abitur/ff/1.jpg";
+import ff2 from "../img/abitur/ff/2.jpg";
+import ff3 from "../img/abitur/ff/3.jpg";
+import ff4 from "../img/abitur/ff/4.jpg";
+import ff5 from "../img/abitur/ff/5.jpg";
+import ff6 from "../img/abitur/ff/6.jpg";
+import ff7 from "../img/abitur/ff/7.jpg";
+import ff8 from "../img/abitur/ff/8.jpg";
 
 // import ef1 from '../img/abitur/ef/1.jpg';
 // import ef2 from '../img/abitur/ef/2.jpg';
@@ -131,14 +131,14 @@ import ffl8 from "../img/abitur/ffl/8.jpg";
 const images = [
   // ab1,
   // ab2,
-  ffl1,
-  ffl2,
-  ffl3,
-  ffl4,
-  ffl5,
-  ffl6,
-  ffl7,
-  ffl8,
+  // ffl1,
+  // ffl2,
+  // ffl3,
+  // ffl4,
+  // ffl5,
+  // ffl6,
+  // ffl7,
+  // ffl8,
   // fius1,
   // fius2,
   // fius3,
@@ -207,14 +207,14 @@ const images = [
   // ffkis5,
   // ffkis6,
   // ffkis7,
-  // ff1,
-  // ff2,
-  // ff3,
-  // ff4,
-  // ff5,
-  // ff6,
-  // ff7,
-  // ff8,
+  ff1,
+  ff2,
+  ff3,
+  ff4,
+  ff5,
+  ff6,
+  ff7,
+  ff8,
   // ef1,
   // ef2,
   // ef3,
