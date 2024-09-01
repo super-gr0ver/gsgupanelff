@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gsgupanelff/static/css/main.762e8d0d.css",
-    "main.js": "/gsgupanelff/static/js/main.1372b182.js",
+    "main.css": "/gsgupanelff/static/css/main.2ea0ba59.css",
+    "main.js": "/gsgupanelff/static/js/main.2aa5644d.js",
     "static/media/main_21.jpg": "/gsgupanelff/static/media/main_21.ad4799af5338bc552d8d.jpg",
     "static/media/main_20.jpg": "/gsgupanelff/static/media/main_20.998493556b43f21f2c9d.jpg",
     "static/media/main_19.jpg": "/gsgupanelff/static/media/main_19.60abebb60af372c3ccf4.jpg",
@@ -36,7 +36,6 @@
     "static/media/main_12.jpg": "/gsgupanelff/static/media/main_12.7dc43c8c97e268f84ca7.jpg",
     "static/media/main_16.jpg": "/gsgupanelff/static/media/main_16.5859683064dea7afdbd3.jpg",
     "static/media/19.jpg": "/gsgupanelff/static/media/19.5ea6a49f09842150efd1.jpg",
-    "static/media/gsgu-logo.png": "/gsgupanelff/static/media/gsgu-logo.6c13ad215bb4c18d3ca1.png",
     "static/media/main_15.jpg": "/gsgupanelff/static/media/main_15.e9707dac4e4f533bceb0.jpg",
     "static/media/20.jpg": "/gsgupanelff/static/media/20.578b9d2c47de10a446f1.jpg",
     "static/media/23.jpg": "/gsgupanelff/static/media/23.76194a0bf81ca0b9632a.jpg",
@@ -49,14 +48,15 @@
     "static/media/main_4.jpg": "/gsgupanelff/static/media/main_4.3e625378a685cda09fcd.jpg",
     "static/media/main_13.jpg": "/gsgupanelff/static/media/main_13.eefc5bc3c9d8d125822a.jpg",
     "static/media/main_6.jpg": "/gsgupanelff/static/media/main_6.f75a0c226d3cae744ddf.jpg",
+    "static/media/gsgu-logo.png": "/gsgupanelff/static/media/gsgu-logo.54593d298df39deb272c.png",
     "static/media/qr-vk.svg": "/gsgupanelff/static/media/qr-vk.e92644802c9b49494cbfb004b710a608.svg",
     "static/media/qr-tg.svg": "/gsgupanelff/static/media/qr-tg.de362359674d2d570f085de0d5d3086b.svg",
     "index.html": "/gsgupanelff/index.html",
-    "main.762e8d0d.css.map": "/gsgupanelff/static/css/main.762e8d0d.css.map",
-    "main.1372b182.js.map": "/gsgupanelff/static/js/main.1372b182.js.map"
+    "main.2ea0ba59.css.map": "/gsgupanelff/static/css/main.2ea0ba59.css.map",
+    "main.2aa5644d.js.map": "/gsgupanelff/static/js/main.2aa5644d.js.map"
   },
   "entrypoints": [
-    "static/css/main.762e8d0d.css",
-    "static/js/main.1372b182.js"
+    "static/css/main.2ea0ba59.css",
+    "static/js/main.2aa5644d.js"
   ]
 }
