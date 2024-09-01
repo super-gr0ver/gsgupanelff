@@ -10,7 +10,7 @@ function SideMenu() {
         <NavLink to="/">Главная</NavLink>
         {/* <NavLink to="info">Расписание</NavLink> */}
         <NavLink to="structur">Расписание</NavLink>
-        <NavLink to="eduprocess">Учебный процесс</NavLink>
+        <NavLink to="stubpage">Учебный процесс</NavLink>
         <NavLink to="docs">Документы</NavLink>
         {/* <NavLink to="abitur">Абитуриенту</NavLink> */}
         <NavLink to="projects">Проекты</NavLink>
