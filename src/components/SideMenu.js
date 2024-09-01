@@ -19,10 +19,10 @@ function SideMenu() {
         <NavLink to='contact'>Контакты</NavLink>
       </div>
       <div className='socials-container'>
-        <div className='socials-item'>
-          <div className='socials-item-title'>Мы в Telegram</div>
-          <img src={tg} width='100' height='100' alt='tg-qr-code' />
-        </div>
+        // <div className='socials-item'>
+        //   <div className='socials-item-title'>Мы в Telegram</div>
+        //   <img src={tg} width='100' height='100' alt='tg-qr-code' />
+        // </div>
         <div className='socials-item'>
           <div className='socials-item-title'>Мы ВКонтакте</div>
           <img src={vk} width='100' height='100' alt='vk-qr-code' />
