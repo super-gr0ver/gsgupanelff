@@ -9,7 +9,7 @@ function Header() {
         <img height={150} width={150} src={logo} alt='GSGU logo' />
       </Link>
 
-      <h1>Учебно-методическая работа</h1>
+      <h1>Филологический факультет</h1>
     </header>
   );
 }
