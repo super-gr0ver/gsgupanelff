@@ -105,7 +105,18 @@
 
 .structur {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+embed {
+  display: block;
+}
+
+.structur embed {
+  width: 500px;
+  height: 600px;
 }
 
 .structur a {
